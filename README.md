@@ -29,4 +29,17 @@ Enter your feature values (comma separated) and click **Predict** to get the mod
 - Python 3.8+
 - pip
 
+---
+
+### Running the Application
+Start the Flask server:
+
+bash
+Copy
+Edit
+python app.py
+Open your browser and go to: http://127.0.0.1:5000
+
+
+
 
